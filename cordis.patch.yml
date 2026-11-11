@@ -1,0 +1,3 @@
+- insert:
+    - id: calendar-widget
+      name: '@local/calendar-widget'
